@@ -1,0 +1,86 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+img{
+	max-width: 100%;
+}
+.navbar-brand{
+	width: 40px;
+}
+.btn-dark{
+	background-color: #3F4448;
+	padding: 0 10px;
+}
+.active{
+	padding: 0 5px;
+}
+.body-section{
+	background-image: url(../images/github.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #202429;
+	background-blend-mode: multiply;
+	height: 100vh;
+}
+
+.form-section{
+	
+padding: 50px 60px;
+}
+.shadow label{
+
+font-size: 15px;
+
+font-weight: 600;
+}
+.shadow p{
+
+font-size: 12px;
+
+text-align: justify;
+
+padding: 0px 15px;
+}
+.submit-button{
+
+padding: 0px 0;
+}
+.term{
+
+padding: 0px 10px;
+
+margin: 20px 0;
+}
+.built-section h1{
+
+font-weight: 600;
+
+font-size: 65px;
+}
+.built-section p{
+
+color: #7b7676;
+}
+.built-section a{
+	
+color: #e6e6e6;
+}
+
+.hober a{
+
+border: 1px solid #fff;
+
+border-radius: 8px;
+
+padding: 6px;
+}
+.hober a:hover{
+	
+border: 1px solid #fff;
+text-decoration: none
+}
